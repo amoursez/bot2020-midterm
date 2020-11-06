@@ -1,4 +1,4 @@
-#Visit in Bishkek bot
+<h1>Visit in Bishkek bot</h1>
 This bot will help you find a place to visit
 
 
@@ -23,4 +23,5 @@ and etc
 <h3>or click on "Никуда не хочу" if you want to stay at home</h3>
 <img src="https://user-images.githubusercontent.com/72801356/98354660-3b08ca80-204b-11eb-950c-9c7e5666599c.jpg" width="300" height="500">
  
-#THE END!THANKS FOR YOUR ATTENTION
+<h1>THE END!THANKS FOR YOUR ATTENTION</h1>
+[Photo]
