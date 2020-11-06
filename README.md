@@ -16,7 +16,7 @@ some of the best places in Bishkek</h3>
 <img src="https://user-images.githubusercontent.com/72801356/98354651-39d79d80-204b-11eb-8737-55c8e1ba84fd.jpg" width="300" height="500">
 <h3>or some of the best shopping centers</h3>
 <img src="https://user-images.githubusercontent.com/72801356/98354648-393f0700-204b-11eb-9c00-6ef86c55f544.jpg" width="300" height="500">
-and etc
+<h3>and etc</h3>
 <h1>Alternative options</h2>
 <h3>Click on "Cлучайный выбор" button if you don't have any idea where to go.Bot will send you random interesting places.</h3>
 <img src="https://user-images.githubusercontent.com/72801356/98354666-3e03bb00-204b-11eb-9fbc-a8ab9f59f3d6.PNG" width="300" height="500">
