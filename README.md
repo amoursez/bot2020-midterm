@@ -24,4 +24,4 @@ some of the best places in Bishkek</h3>
 <img src="https://user-images.githubusercontent.com/72801356/98354660-3b08ca80-204b-11eb-950c-9c7e5666599c.jpg" width="300" height="500">
  
 <h1>THE END!THANKS FOR YOUR ATTENTION</h1>
-[Photo]
+
