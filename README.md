@@ -7,7 +7,7 @@ This bot will help you find a place to visit
 Then you will see this screen</h3>
 
 
-<img src="https://user-images.githubusercontent.com/72801356/98354507-fd0ba680-204a-11eb-9403-1b49cb00a2f9.PNG)" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/72801356/98354507-fd0ba680-204a-11eb-9403-1b49cb00a2f9.PNG" width="300" height="500">
 
 <h1>2.Second step</h1>
 <h3>Select one of the categories you are interested in. For example, you want to eat somewhere, click "Еда" button.Bot will send you 
